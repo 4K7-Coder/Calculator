@@ -29,6 +29,7 @@ h1 {
 }
 .result {
   width: 59.1%;
+  text-align:right;
 }
 input {
   padding: 25px;
@@ -51,7 +52,7 @@ input {
 }
 input[type="text"] {
   background-color: rgb(47, 51, 50);
-  text-align: right;
+ 
   width: 218px;
 }
 input[type="button"]:hover {
